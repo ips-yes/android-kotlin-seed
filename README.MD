@@ -18,7 +18,7 @@ An architecturally sound starting point for an Android application.
  - di contains the Dependency injection classes
  - utils contains any global library classes
 
-### Complimentary Tools
+### Complementary Tools
 [IPS Express Seed](https://github.com/ips-yes/express-seed) Node.js Express server that the application calls to login. Follow the Express Seed Setup on your local machine.
 
 ### Android App Setup
